@@ -1,0 +1,5 @@
+8602704913        0 -rw-r--r--    1 brendan          staff                   0 Apr 24 16:20 .//file_list.txt
+8602704843        8 -rw-r--r--    1 brendan          staff                  23 Apr 24 16:18 .//f1.txt
+8602704893        8 -rw-r--r--    1 brendan          staff                  20 Apr 24 16:20 .//dir_list.txt
+8602704877        8 -rw-r--r--    1 brendan          staff                  39 Apr 24 16:19 .//C/f3.txt
+8602704857        8 -rw-r--r--    1 brendan          staff                  41 Apr 24 16:19 .//B/D/f2.txt
